@@ -1,0 +1,17 @@
+# #등록함수
+# def list()
+#     return(object):
+
+# #수정함수
+# def update(key):
+    
+# #삭제함수
+# def delete(key):
+    
+# #읽기함수
+# def read(object):
+#     return object
+
+# #검색함수
+# def search(검색어):
+#     return list[object]
